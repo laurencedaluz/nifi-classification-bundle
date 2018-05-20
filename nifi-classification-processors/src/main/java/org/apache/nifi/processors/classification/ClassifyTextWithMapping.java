@@ -34,8 +34,8 @@ import org.apache.nifi.processor.*;
 import org.apache.nifi.processor.io.InputStreamCallback;
 import org.apache.nifi.processor.io.OutputStreamCallback;
 import org.apache.nifi.processor.util.StandardValidators;
-import org.apache.nifi.processors.standard.util.NLKBufferedReader;
-import org.codehaus.jackson.map.ObjectMapper;
+import org.apache.nifi.processors.classification.util.NLKBufferedReader;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
 import java.nio.charset.Charset;
