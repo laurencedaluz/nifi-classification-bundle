@@ -1,0 +1,9 @@
+[
+  {
+    "key": "tenant_2",
+    "classifications": [
+      "event_source_1",
+      "event_source_3"
+    ]
+  }
+]

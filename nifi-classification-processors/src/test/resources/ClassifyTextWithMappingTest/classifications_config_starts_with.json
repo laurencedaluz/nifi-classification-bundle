@@ -1,0 +1,7 @@
+[
+  {
+    "classification": "event_source_1",
+    "strategy": "starts_with",
+    "value": "start"
+  }
+]

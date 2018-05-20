@@ -1,0 +1,12 @@
+[
+  {
+    "classification": "event_source_1",
+    "strategy": "ends_with",
+    "value": "end"
+  },
+  {
+    "classification": "event_source_2",
+    "strategy": "contains_regex",
+    "value": ".*(start).*"
+  }
+]
